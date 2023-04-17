@@ -19,3 +19,5 @@
 ## Restricciones
  Ninguna
 ***
+## Resultados
+- Compilador utilizado: gcc-11 de Linux
